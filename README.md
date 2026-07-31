@@ -2,7 +2,7 @@
 
 **`Software Engineering Student | Aspiring Data Analyst`**
 
-Me chamo **Mayara Borges** e sou estudante de **Engenharia de Software**. Atualmente, estou me especializando na área de **Análise de Dados**, estudando Python, SQL, R e Power BI. Sou apaixonada por tecnologia e compartilho aqui no GitHub meus estudos, projetos e aprendizados ao longo da minha jornada na programação.
+Me chamo **Mayara Borges** e sou estudante de **Engenharia de Software**. Atualmente, estou me especializando na área de Análise de Dados, estudando Python, SQL, R e Power BI. Sou apaixonada por tecnologia e utilizo este GitHub para reunir os projetos que desenvolvo ao longo da minha jornada, aplicando e aprimorando meus conhecimentos em programação e análise de dados.
 
 
 <p align="left">
