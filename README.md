@@ -1,79 +1,115 @@
-# 👩🏻‍💻 Mayara Borges
 
-**`Software Engineering Student | Aspiring Data Analyst`**
+<div align="center">
 
-Me chamo **Mayara Borges** e sou estudante de **Engenharia de Software**. Atualmente, estou me especializando na área de Análise de Dados, estudando Python, SQL, R e Power BI. Sou apaixonada por tecnologia e utilizo este GitHub para reunir os projetos que desenvolvo ao longo da minha jornada, aplicando e aprimorando meus conhecimentos em programação e análise de dados.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:789568,100:0D1117&height=200&section=header&text=Mayara%20Borges&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Data%20%26%20Analytics&descAlignY=55&descSize=18" width="100%"/>
 
-
-<p align="left">
-    <a href="https://github.com/mayborgws?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mayborgws?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/mayborgws?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mayborgws?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-   <img src="https://komarev.com/ghpvc/?username=mayborgws&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge" alt="Visualizações do Perfil"/>
-    </a>
-</p>
-
-<img data-importer="image" align="right" height="189" src="https://giffiles.alphacoders.com/214/214184.gif"  />
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="R"
-    title="R"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="MySQL"
-    title="SQL (MySQL)"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Power BI"
-    title="Power BI"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-/>
-
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
+<a href="https://github.com/mayborgws">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=789568&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Explorando+Data+%26+Analytics;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+informacao" alt="Typing SVG" />
+</a>
 
 <br/>
+
+[![Email](https://img.shields.io/badge/-SEU--EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=789568&labelColor=0D1117)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=789568&labelColor=0D1117)](SEU-LINKEDIN)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=789568&labelColor=0D1117)](SEU-PORTFOLIO)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=789568&height=2&width=100%"/>
+
+### 🌿 Sobre mim
+
+```python
+class MayaraBorges:
+    def __init__(self):
+        self.nome = "Mayara Borges"
+        self.formacao = "Engenharia de Software - USJT"
+        self.conclusao = "Julho/2027"
+        self.foco = "Data & Analytics"
+        self.interesses = [
+            "Análise de Dados",
+            "Engenharia de Dados",
+            "Business Intelligence",
+            "Tecnologia"
+        ]
+        self.objetivo = (
+            "Transformar dados em informações "
+            "que apoiem decisões e soluções."
+        )
+```
+
+- 📊 Interesse em **Dados, Analytics e Business Intelligence**, explorando maneiras de transformar informações em insights.
+- 🎓 Graduanda em **Engenharia de Software** pela Universidade São Judas Tadeu (USJT).
+- 💼 Experiência de aproximadamente cinco anos na MPE, com trajetória de Jovem Aprendiz a Assistente Administrativo, atuando em RH, Departamento Pessoal e Planejamento.
+- 📈 Vivência com organização e análise de dados, elaboração de relatórios, planilhas e acompanhamento de informações.
+- 🌱 Atualmente aprofundando conhecimentos em **Python, SQL, Power BI e Engenharia de Dados**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=789568&height=2&width=100%"/>
+
+### 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=789568)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=789568)
+![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=789568)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=789568)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=789568)
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=789568)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=789568)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=789568)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=789568)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=789568)
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=789568)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=789568)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=789568&height=2&width=100%"/>
+
+### 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐾 [WeAnimals - Aplicativo Android](https://github.com/WePinkers/WeAnimals)
+
+Plataforma digital voltada à proteção animal, conectando cidadãos, protetores e ONGs. Desenvolvida para facilitar denúncias, adoções responsáveis, localização de animais perdidos e encontrados e comunicação entre usuários.
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=789568)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=789568)
+![Android](https://img.shields.io/badge/-Android-0D1117?style=flat-square&logo=android&logoColor=789568)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [WeAnimals - Plataforma Web](https://github.com/WePinkers/WeAnimals-Web)
+
+Ambiente web complementar ao aplicativo, desenvolvido para ampliar o acesso às funcionalidades da plataforma e apoiar a integração entre usuários e organizações de proteção animal.
+
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=789568)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=789568)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=789568)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=789568&height=2&width=100%"/>
+
+<div align="center">
+
+### 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-Mayara%20Borges-0D1117?style=flat-square&logo=linkedin&logoColor=789568)](https://www.linkedin.com/in/mayborgws/)
+[![Gmail](https://img.shields.io/badge/-Contato-0D1117?style=flat-square&logo=gmail&logoColor=789568)](mayborgws@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-Ver%20portfólio-0D1117?style=flat-square&logo=googlechrome&logoColor=789568)](SEU-PORTFOLIO)
+
 <br/>
-  
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:789568,100:0D1117&height=100&section=footer"/>
+
+</div>
