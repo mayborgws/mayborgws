@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:789568,100:0D1117&height=200&section=header&text=Mayara%20Borges&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Data%20%26%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=294&color=789568&section=header&reversal=true&text=Mayara+Borges&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&desc=DATA++ANALYTICS+%7C+Graduanda+em+Engenheira+de+Software&descSize=20&descAlign=50&descAlignY=59]" width="100%"/>
 
 <a href="https://github.com/mayborgws">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=789568&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Explorando+Data+%26+Analytics;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+informacao" alt="Typing SVG" />
@@ -9,8 +9,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-SEU--EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=789568&labelColor=0D1117)](mailto:SEU-EMAIL)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=789568&labelColor=0D1117)](SEU-LINKEDIN)
+[![Email](https://img.shields.io/badge/-mayborws%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=789568&labelColor=0D1117)](mailto:mayborws@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=789568&labelColor=0D1117)](https://www.linkedin.com/in/mayborgws/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=789568&labelColor=0D1117)](SEU-PORTFOLIO)
 
 </div>
