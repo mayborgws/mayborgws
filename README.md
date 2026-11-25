@@ -1,11 +1,17 @@
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=789568&section=header&reversal=true&text=Mayara+Borges&textBg=false&fontColor=FFFFFF&fontSize=35&fontAlign=50&fontAlignY=22&rotate=0&strokeWidth=0&desc=DATA++ANALYTICS+%7C+Graduanda+em+Engenheira+de+Software&descSize=16&descAlign=50&descAlignY=42" width="100%" />
+</div>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=294&color=789568&section=header&reversal=true&text=Mayara+Borges&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&desc=DATA++ANALYTICS+%7C+Graduanda+em+Engenheira+de+Software&descSize=20&descAlign=50&descAlignY=59]" width="100%"/>
+<div align="center">
 
 <a href="https://github.com/mayborgws">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=789568&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Explorando+Data+%26+Analytics;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+informacao" alt="Typing SVG" />
 </a>
+
+</div>
+
+<div align="center">
 
 <br/>
 
