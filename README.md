@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/mayborgws">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=751B2B&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Explorando+Data+%26+Analytics;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+informacao" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=751B2B&center=true&vCenter=true&width=800&lines=Graduanda+de+Engenharia+de+Software;Explorando+Data+%26+Analytics;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+informacao" alt="Typing SVG" />
 </a>
 
 </div>
