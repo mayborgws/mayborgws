@@ -81,6 +81,8 @@ class MayaraBorges:
 
 ### 🚀 Projetos em destaque
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -103,6 +105,7 @@ Descrição do projeto...
 
 </td>
 
+</td>
 <td width="50%" valign="top">
 
 <!-- PROJETO 2 -->
