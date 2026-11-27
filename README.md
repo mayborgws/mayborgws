@@ -90,7 +90,7 @@ class MayaraBorges:
 <!-- PROJETO 1 -->
 #### 🐾 WeAnimals
 
-Descrição do projeto...
+Plataforma digital voltada à proteção animal, conectando cidadãos, protetores e ONGs. O projeto reúne um aplicativo Android e uma plataforma web para facilitar denúncias, adoções responsáveis, localização de animais perdidos e encontrados e comunicação entre usuários.
 
 **Tecnologias:**
 
@@ -111,7 +111,7 @@ Descrição do projeto...
 <!-- PROJETO 2 -->
 #### 📊 Dashboard de RH
 
-Descrição do projeto...
+Dashboard interativo desenvolvido no Power BI para análise de indicadores de Recursos Humanos, com foco na distribuição de colaboradores, turnover, cargos e departamentos.
 
 **Tecnologias:**
 
@@ -122,9 +122,11 @@ Descrição do projeto...
 **Repositório:**
 - [Dashboard de RH](LINK_DO_SEU_GITHUB)
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
+</div>
+
+<div align="center">\
 </div>
 
 ### 🤝 Vamos nos conectar?
