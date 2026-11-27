@@ -92,10 +92,14 @@ Descrição do projeto...
 
 **Tecnologias:**
 
-![Kotlin](LINK)
-![React](LINK)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-[Ver repositório](LINK)
+**Repositórios:**
+- [Aplicativo Android](https://github.com/WePinkers/WeAnimals)
+- [Plataforma Web](https://github.com/WePinkers/WeAnimals-Web)
 
 </td>
 
@@ -108,10 +112,12 @@ Descrição do projeto...
 
 **Tecnologias:**
 
-![Power BI](LINK)
-![DAX](LINK)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Power Query](https://img.shields.io/badge/Power_Query-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
 
-[Ver repositório](LINK)
+**Repositório:**
+- [Dashboard de RH](LINK_DO_SEU_GITHUB)
 
 </td>
 </tr>
