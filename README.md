@@ -100,12 +100,33 @@ Plataforma digital voltada à proteção animal, conectando cidadãos, protetore
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=751B2B)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=751B2B)
 
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+#### 📊 Dashboard de Indicadores de Recursos Humanos
+
+Projeto de análise de dados desenvolvido no Power BI, utilizando uma base de dados de Recursos Humanos disponibilizada no Kaggle. O dashboard apresenta indicadores relacionados ao quadro de colaboradores, departamentos, cargos, admissões, desligamentos e distribuição etária, transformando dados em informações visuais para apoiar a análise de RH.
+
+**Tecnologias:**
+
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
+![Power Query](https://img.shields.io/badge/Power_Query-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
+
+**Repositório:** [Dashboard de RH](LINK_DO_REPOSITORIO)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
 </div>
 
 <div align="center">
+</div>
 
 ### 🤝 Vamos nos conectar?
 
