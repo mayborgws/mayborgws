@@ -122,6 +122,12 @@ Dashboard interativo desenvolvido no Power BI para análise de indicadores de Re
 **Repositório:**
 - [Dashboard de RH](LINK_DO_SEU_GITHUB)
 
+</td>
+</tr>
+</table>
+
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
 </div>
