@@ -17,7 +17,7 @@
 
 [![Email](https://img.shields.io/badge/-mayborws%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=751B2B&labelColor=0D1117)](mailto:mayborws@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=751B2B&labelColor=0D1117)](https://www.linkedin.com/in/mayborgws/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=751B2B&labelColor=0D1117)](SEU-PORTFOLIO)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=751B2B&labelColor=0D1117)](https://mayborgws.github.io/Portifolio-mayborgws/)
 
 </div>
 
@@ -138,7 +138,7 @@ Dashboard interativo desenvolvido no Power BI para análise de indicadores de Re
 
 [![LinkedIn](https://img.shields.io/badge/Mayara_Borges-0D1117?style=flat-square&logo=linkedin&logoColor=E8C5CC)](https://www.linkedin.com/in/mayborgws/)
 [![Gmail](https://img.shields.io/badge/-Contato-0D1117?style=flat-square&logo=gmail&logoColor=751B2B)](mailto:mayborws@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Ver%20portfólio-0D1117?style=flat-square&logo=googlechrome&logoColor=751B2B)](SEU-PORTFOLIO)
+[![Portfólio](https://img.shields.io/badge/-Ver%20portfólio-0D1117?style=flat-square&logo=googlechrome&logoColor=751B2B)](https://mayborgws.github.io/Portifolio-mayborgws/)
 
 </div>
 
