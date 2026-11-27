@@ -133,7 +133,6 @@ Dashboard interativo desenvolvido no Power BI para análise de indicadores de Re
 </div>
 
 <div align="center">
-</div>
 
 ### 🤝 Vamos nos conectar?
 
@@ -141,15 +140,14 @@ Dashboard interativo desenvolvido no Power BI para análise de indicadores de Re
 [![Gmail](https://img.shields.io/badge/-Contato-0D1117?style=flat-square&logo=gmail&logoColor=751B2B)](mailto:mayborws@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Ver%20portfólio-0D1117?style=flat-square&logo=googlechrome&logoColor=751B2B)](SEU-PORTFOLIO)
 
+</div>
+
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
 </div>
 
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:751B2B,100:0D1117&section=footer" width="100%" />
 </div>
-
