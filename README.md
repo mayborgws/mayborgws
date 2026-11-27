@@ -83,49 +83,39 @@ class MayaraBorges:
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
-#### 🐾 [WeAnimals — Plataforma de Proteção Animal](https://github.com/WePinkers/WeAnimals)
+<!-- PROJETO 1 -->
+#### 🐾 WeAnimals
 
-Plataforma digital voltada à proteção animal, conectando cidadãos, protetores e ONGs. O projeto reúne um aplicativo Android e uma plataforma web para facilitar denúncias, adoções responsáveis, localização de animais perdidos e encontrados e comunicação entre usuários.
-
-**Repositórios:**
-- [Aplicativo Android](https://github.com/WePinkers/WeAnimals)
-- [Plataforma Web](https://github.com/WePinkers/WeAnimals-Web)
+Descrição do projeto...
 
 **Tecnologias:**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=751B2B)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=751B2B)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=751B2B)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=751B2B)
+![Kotlin](LINK)
+![React](LINK)
+
+[Ver repositório](LINK)
 
 </td>
-</tr>
-<tr>
-<td width="100%" valign="top">
 
-#### 📊 Dashboard de Indicadores de Recursos Humanos
+<td width="50%" valign="top">
 
-Projeto de análise de dados desenvolvido no Power BI, utilizando uma base de dados de Recursos Humanos disponibilizada no Kaggle. O dashboard apresenta indicadores relacionados ao quadro de colaboradores, departamentos, cargos, admissões, desligamentos e distribuição etária, transformando dados em informações visuais para apoiar a análise de RH.
+<!-- PROJETO 2 -->
+#### 📊 Dashboard de RH
+
+Descrição do projeto...
 
 **Tecnologias:**
 
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
-![Power Query](https://img.shields.io/badge/Power_Query-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
-![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
+![Power BI](LINK)
+![DAX](LINK)
 
-**Repositório:** [Dashboard de RH](LINK_DO_REPOSITORIO)
+[Ver repositório](LINK)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
-</div>
-
-<div align="center">
 </div>
 
 ### 🤝 Vamos nos conectar?
