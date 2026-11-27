@@ -94,10 +94,10 @@ Plataforma digital voltada à proteção animal, conectando cidadãos, protetore
 
 **Tecnologias:**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=751B2B)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=751B2B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=751B2B)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=751B2B)
 
 **Repositórios:**
 - [Aplicativo Android](https://github.com/WePinkers/WeAnimals)
@@ -120,7 +120,7 @@ Dashboard interativo desenvolvido no Power BI para análise de indicadores de Re
 ![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=powerbi&logoColor=751B2B)
 
 **Repositório:**
-- [Dashboard de RH](LINK_DO_SEU_GITHUB)
+- [Dashboard de RH](https://github.com/mayborgws/Dashboard-indicadores-rh)
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ Dashboard interativo desenvolvido no Power BI para análise de indicadores de Re
   <img src="https://capsule-render.vercel.app/api?type=rect&color=751B2B&height=2&width=100%"/>
 </div>
 
-<div align="center">\
+<div align="center">
 </div>
 
 ### 🤝 Vamos nos conectar?
